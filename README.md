@@ -4,6 +4,7 @@
 2. Shakil Ahmed's Blog: http://shakilcompetitiveprogramming.blogspot.com/                                                            
 3. Tushar Roy - Coding Made Simple (YouTube): https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
 4. Number theory: https://artofproblemsolving.com/community/c90633h1291397
+5. Number theory (practise problem): https://codeforces.com/topic/49724/en10
 
 # Codeforces tutorials: 
 1. segment tree: https://codeforces.com/blog/entry/18051
