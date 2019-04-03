@@ -1,7 +1,9 @@
 # My favourite Programming Blog
-1. Safayat's Blog : http://www.shafaetsplanet.com/                                                                                         
-              2.Shakil Ahmed's Blog: http://shakilcompetitiveprogramming.blogspot.com/                                                            
-3.Tushar Roy - Coding Made Simple (YouTube): https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
+
+1. Safayat's Blog: http://www.shafaetsplanet.com/                                                                                         
+2. Shakil Ahmed's Blog: http://shakilcompetitiveprogramming.blogspot.com/                                                            
+3. Tushar Roy - Coding Made Simple (YouTube): https://www.youtube.com/channel/UCZLJf_R2sWyUtXSKiKlyvAw
+4. Number theory: https://artofproblemsolving.com/community/c90633h1291397
 
 # Codeforces tutorials: 
 1. segment tree: https://codeforces.com/blog/entry/18051
