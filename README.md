@@ -8,6 +8,8 @@
 6. Sparse Table(Bangla):https://tanvir002700.wordpress.com/2015/05/27/sparse-table/
 7. Hash Table(Bangla)  :https://tanvir002700.wordpress.com/2015/05/27/sparse-table/
 8. Policy based data structures(Bangla) : https://returnzerooo.wordpress.com/2017/12/24/
+9. Modular Multiplicative Inverse: https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/
+10. Dynamic Programming Optimization - Convex Hull Trick: https://rezwanarefin01.github.io/posts/convex-hull-trick/
 
 # Codeforces tutorials: 
 1. segment tree: https://codeforces.com/blog/entry/18051
