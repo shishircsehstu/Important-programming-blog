@@ -23,3 +23,6 @@
 1. Dawn of Programming contest(মোঃ মাহবুবুল হাসান) : https://drive.google.com/file/d/0B0uOHynlj5e7M19Kc08zU0JyM2M/view
 2. হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা: http://hukush-pakush.com/chap1
 3. তামিম শাহরিয়ার সুবীন এর সি প্রোগ্রামিং বই: http://cpbook.subeen.com/
+
+# Programming camp
+1. BACS Regional Programming Camp, Kuet - 2017 : https://www.youtube.com/playlist?list=PLcwTsR246f9f6pT4RWzxQo_dEuktoksJL
