@@ -18,3 +18,6 @@
 2. C++ STL: Policy based data structures : https://codeforces.com/blog/entry/11080
 3. Policy based data structures (part 2) : https://codeforces.com/blog/entry/13279
 3. Heavy-light decomposition implementation: https://codeforces.com/blog/entry/22072
+
+# বাংলা প্রোগ্রামিং বই (Bnagla programming books):
+Dawn of Programming contest(মোঃ মাহবুবুল হাসাল) : https://drive.google.com/file/d/0B0uOHynlj5e7M19Kc08zU0JyM2M/view
