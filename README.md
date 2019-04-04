@@ -11,8 +11,10 @@
 9. Modular Multiplicative Inverse: https://mukitmkbs.wordpress.com/2014/10/01/modular-multiplicative-inverse/
 10. Dynamic Programming Optimization - Convex Hull Trick: https://rezwanarefin01.github.io/posts/convex-hull-trick/
 11. Palindromic Tree (Part - 01): https://rezwanarefin01.github.io/posts/palindromic-tree-01/
+12. Heavy-light decomposition: https://cp-algorithms.com/graph/hld.html
 
 # Codeforces tutorials: 
 1. segment tree: https://codeforces.com/blog/entry/18051
 2. C++ STL: Policy based data structures : https://codeforces.com/blog/entry/11080
 3. Policy based data structures (part 2) : https://codeforces.com/blog/entry/13279
+3. Heavy-light decomposition implementation: https://codeforces.com/blog/entry/22072
