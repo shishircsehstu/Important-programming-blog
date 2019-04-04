@@ -1,4 +1,4 @@
-# My favourite Programming Blog
+# Programming Blog (প্রোগ্রামিং ব্লগ) 
 
 1. Safayat's Blog: http://www.shafaetsplanet.com/                                                                                         
 2. Shakil Ahmed's Blog: http://shakilcompetitiveprogramming.blogspot.com/                                                            
