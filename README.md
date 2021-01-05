@@ -12,7 +12,7 @@
 10. Dynamic Programming Optimization - Convex Hull Trick: https://rezwanarefin01.github.io/posts/convex-hull-trick/
 11. Palindromic Tree (Part - 01): https://rezwanarefin01.github.io/posts/palindromic-tree-01/
 12. Heavy-light decomposition: https://cp-algorithms.com/graph/hld.html
-13. Data structure and Algorithm: https://www.coderstutorial.com/
+13. Data structure and Algorithm: <a rel="noreferrer noopener" href="https://www.coderstutorial.com/" target="_blank">Coders tutorial</a> https://www.coderstutorial.com/
 
 # Codeforces tutorials: 
 1. segment tree: https://codeforces.com/blog/entry/18051
